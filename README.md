@@ -29,6 +29,4 @@ The shared task of CoNLL-2003 concerns language-independent named
 entity recognition.   
 The structure of the training and test data is concentrated to
 have four types of named entities: **persons, locations, organizations and names
-of miscellaneous entities** not belonging to the previous groups. The
-goal is the development of a named-entity recognition system that includes a
-machine learning component.
+of miscellaneous entities** not belonging to the previous groups. 
